@@ -3,7 +3,7 @@ Welcome to your first graphics + simulation task!
 
 In this task, you’ll be creating a sand falling simulator using C++ and the SFML (Simple and Fast Multimedia Library). This is a great opportunity to improve your skills by combining physics simulation with real-time graphics rendering, and learn modern C++ programming.
 
-You'll simulate sand particles under the power of gravity, which collide with one another and settle into patterns that look like nature. The particles must act naturally—falling, piling, and sliding—like sand in real life. By the end of this project, you’ll have created a fully functional visual simulation of classic sandbox games. You'll also gain a solid understanding of C++ programming, real-time simulations, and graphics development.
+You'll simulate sand particles under the power of gravity, which collide with one another and settle into patterns that look like nature. The user must be able to create/remove sand particles by using mouse. You can use one key for removal and another for addition of sand. The particles must act naturally—falling, piling, and sliding—like sand in real life. By the end of this project, you’ll have created a fully functional visual simulation of classic sandbox games. You'll also gain a solid understanding of C++ programming, real-time simulations, and graphics development.
 
 ## What you will learn
 - Basics of Modern C++ programming
@@ -12,7 +12,12 @@ You'll simulate sand particles under the power of gravity, which collide with on
 
 ![screenshot](screenshot.png)
 
-## Getting Started
+## 🎯 Objective
+- Learn the basics of C++ including arrays and vectors
+- Understanding the usages of each SFML methods used.
+- The user should have the choice to add or remove sand at pointer location.
+
+## 🛠 Getting Started
 1. To begin create a repository in you Github account and clone it.
 2. Install the following packages
 - g++ (For compiling and linking)
@@ -58,5 +63,11 @@ g++ -c main.cpp
 g++ main.cpp -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
 ```
 6. Now simply run `./sfml-app` from terminal.
+
+## ✅ Submission Guidelines
+The repository must have:
+- main.cpp where your code is written
+- The steps to compile the library if any other libraries are used given in the README.
+- Include simple steps taken to make this simulation in the README.
 
 <b>Happy Coding!</b>
