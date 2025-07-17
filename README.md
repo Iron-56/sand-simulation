@@ -5,7 +5,7 @@ In this task, you’ll be creating a sand falling simulator using C++ and the SF
 
 You'll simulate sand particles under the power of gravity, which collide with one another and settle into patterns that look like nature. The user must be able to create/remove sand particles by using mouse. You can use one key for removal and another for addition of sand. The particles must act naturally—falling, piling, and sliding—like sand in real life. By the end of this project, you’ll have created a fully functional visual simulation of classic sandbox games. You'll also gain a solid understanding of C++ programming, real-time simulations, and graphics development.
 
-## What you will learn
+## 🧠 What you will learn
 - Basics of Modern C++ programming
 - Using the Simple and Fast Multimedia Library (SFML)
 - Basics of graphics and simulation logics
