@@ -1,11 +1,16 @@
 # Sand Simulation
 Welcome to your first graphics + simulation task!
-In this task, you’ll be creating a sand falling simulator using C++ and the SFML (Simple and Fast Multimedia Library). This is a hands-on introduction to combining physics simulation with real-time graphics rendering, and a great opportunity to improve your skills in modern C++ programming.
 
-You'll simulate sand particles under the power of gravity, which collide with one another and settle into patterns that look like nature. The particles must act naturally—falling, piling, and sliding—like sand in real life.
-By the end of this project, you’ll have created a fully functional visual simulation of falling sand—similar to classic sandbox games. More importantly, you’ll gain a solid understanding of C++ programming, real-time simulations, and graphics development.
+In this task, you’ll be creating a sand falling simulator using C++ and the SFML (Simple and Fast Multimedia Library). This is a great opportunity to improve your skills by combining physics simulation with real-time graphics rendering, and learn modern C++ programming.
 
-![screenshot](image.png)
+You'll simulate sand particles under the power of gravity, which collide with one another and settle into patterns that look like nature. The particles must act naturally—falling, piling, and sliding—like sand in real life. By the end of this project, you’ll have created a fully functional visual simulation of classic sandbox games. You'll also gain a solid understanding of C++ programming, real-time simulations, and graphics development.
+
+## What you will learn
+- Basics of Modern C++ programming
+- Using the Simple and Fast Multimedia Library (SFML)
+- Basics of graphics and simulation logics
+
+![screenshot](screenshot.png)
 
 ## Getting Started
 1. To begin create a repository in you Github account and clone it.
